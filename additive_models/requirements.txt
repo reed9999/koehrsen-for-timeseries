@@ -1,0 +1,9 @@
+# reed9999 -- new file to cleanly install dependencies
+
+# I'm running this in a virtualenv and creating a Jupyter kernel in the virtualenv. See:
+# https://anbasile.github.io/programming/2017/06/25/jupyter-venv/
+quandl
+pandas
+matplotlib
+seaborn
+
