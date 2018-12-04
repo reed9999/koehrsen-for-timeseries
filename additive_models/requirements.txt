@@ -6,4 +6,5 @@ quandl
 pandas
 matplotlib
 seaborn
+fbprophet
 
